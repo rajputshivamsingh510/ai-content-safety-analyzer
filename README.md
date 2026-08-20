@@ -2,6 +2,13 @@
 
 **Important References**
 
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://ai-content-safety-analyzer-dumhamdjng378vfzzmudal.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rajputshivamsingh510/ai-content-safety-analyzer)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Workflow-blueviolet?style=for-the-badge)](https://www.langchain.com/langgraph)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+
+
 * 🌐 **Live Demo:** [https://ai-content-safety-analyzer-dumhamdjng378vfzzmudal.streamlit.app/](https://ai-content-safety-analyzer-dumhamdjng378vfzzmudal.streamlit.app/)
 * 💻 **GitHub:** [https://github.com/rajputshivamsingh510/ai-content-safety-analyzer](https://github.com/rajputshivamsingh510/ai-content-safety-analyzer)
 
